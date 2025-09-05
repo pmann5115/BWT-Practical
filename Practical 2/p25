@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>p 2.5</title>
+    </head>
+    <body>
+        <h1>INDEX</h1>
+        <ol>
+            <li>
+      <a href="#section1">
+        Network
+      </a>
+    </li>
+    <li>
+      <a href="#section2">
+        Topology
+      </a>
+    </li>
+    <li>
+      <a href="#section3">
+        Internet & Its Applications
+      </a>
+    </li>
+    <li>
+      <a href="#section4">
+        WWW (World Wide Web)
+      </a>
+    </li>
+        </ol>
+        <section id="section1">
+            <h1>Network</h1>
+            <p>A network is a system of interconnected computers and devices that share resources and data.
+                Networks can be local (LAN) or global (WAN), allowing devices to communicate and exchange information
+            </p>
+        </section>
+        <section id="section2">
+            <h1>Topology</h1>
+            <p>Topology refers to the physical or logical layout of how devices are connected in a network.
+            </p>
+        </section>
+        <section id="section3">
+            <h1>Internet & Its Applications</h1>
+            <p>The internet is a global network that connects millions of private, public, academic, and government networks.
+            </p>
+        </section>
+        <section id="section4">
+            <h1>WWW (World Wide Web)</h1>
+            <p>The WWW is a system of interlinked documents and multimedia content accessible via the internet using a web browser. It consists of websites, webpages, and online applications.
+            </p>
+        </section>
+    </body>
+</html>
