@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>P 3.3</title>
+    </head>
+    <body>
+        <h1> Practical 3.3</h1>
+        <h2>Quiz</h2>
+        <ol type="1">
+            <li>HTML is an _________?
+                <ol type="a">
+                    <li>Markup language</li>
+                    <li>programming language</li>
+                    <li>None of these</li>
+                </ol>
+            </li>
+            <li>Css is used for
+                <ol type="a">
+                    <li>Styling</li>
+                    <li>Scripting</li>
+                    <li>none of these</li>
+                </ol>
+            </li>
+            <li>Which of the following is a dynamic form of HTML
+                <ol type="a">
+                    <li>XML</li>
+                    <li>DHTML</li>
+                    <li>none of these</li>
+                </ol>
+            </li>
+            <li>Which of the following can be linked with HTML and CSS?
+                <ol type="a">
+                    <li>Javascript</li>
+                    <li>C++</li>
+                    <li>none of these</li>
+                </ol>
+            </li>
+        </ol>
+    </body>
+</html>
