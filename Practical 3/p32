@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <title>P 3.2</title>
+    </head>
+    <body>
+        <h1>Practical 3.2</h1>
+        <ul type="square">
+            <li>Maharashtra
+                <ul>
+                    <li>Pune
+                        <ol type="I">
+                            <li>Dighi</li>
+                            <li>Moshi</li>
+                            <li>Shivajinagar</li>
+                        </ol>
+                    </li>
+                    <li>Mumbai
+                        <ol type="I">
+                            <li> Santakruiz</li>
+                            <li>Vikroli</li>
+                            <li>Mumbra</li>
+                        </ol>
+                    </li>
+                </ul>
+</li>
+        </ul>
+    </body>
+</html>
