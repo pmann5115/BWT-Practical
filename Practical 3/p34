@@ -1,0 +1,19 @@
+<html>
+    <head>
+        <title>P 3.4</title>
+    </head>
+    <body>
+        <h1>Practical 3.4</h1>
+        <h1>HTML Description List</h1>
+        <dl>
+            <dt>HTML</dt>
+            <dd>markup language</dd>
+            <dt>JAVA</dt>
+            <dd>programming language</dd>
+            <dt>JavaScript</dt>
+            <dd>scripting language</dd>
+            <dt>SQL</dt>
+            <dd>query Language</dd>
+        </dl>
+    </body>
+</html>
