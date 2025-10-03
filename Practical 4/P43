@@ -1,0 +1,35 @@
+
+<html>
+    <body>
+        <h1>Practical 4.3</h1>
+        <form>
+            <caption>Dom Legend Form Property</caption>
+                <fieldset>
+                    <legend>Student</legend>
+                        <table>
+                            <tr>
+                                <th align="left">Name:</th>
+                                <th><input type="text" id="fname" name="fname" align="left"></th>
+                            </tr>
+                            <tr>
+                                <th align="left">Email:</th>
+                                <th><input type="email" id="email" name="email"></th>
+                            </tr>
+                            <tr>
+                                <th align="left">Date of Birth:</th>
+                                <th align="left"><input type="date" id="DOB" name="DOB"></th>
+                            </tr>
+                            <tr>
+                                <th align="left">Address:</th>
+                                <th><input type="textarea" id="add" name="add"></th>
+                            </tr>
+                            <tr>
+                                <th align="left">Enroll No.:</th>
+                                <th><input type="number" id="Eno." name="Eno."></th>
+                            </tr>
+                        </table>
+                </fieldset>
+                <input type="submit" value="Submit">
+        </form>
+    </body>
+</html>
