@@ -1,0 +1,21 @@
+#red{
+    border: 2px solid red;
+}
+
+#green{
+    border:2px solid green;
+}
+
+div.blue{
+    border:2px solid blue;
+    width:70%;
+    color:rgb(169, 30, 153)
+}
+
+p.lightgreen{
+    color:green;
+}
+
+p.orange{
+    color:orange;
+}
